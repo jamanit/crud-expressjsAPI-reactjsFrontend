@@ -1,0 +1,7 @@
+step:
+1. export database mysql yang berada di folder "database-mysql", nama database nya  db_tes.
+2. jalankan server backend di terminal: "node app.js" (port sudah diset default 1000 di .env).
+3. Jalankan server frontend di terminal: "npm start".
+4. video dokumentasi hasil dan menjalakan program ada di folder "result video".
+
+terima kasih.
